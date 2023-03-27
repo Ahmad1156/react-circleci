@@ -7,14 +7,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello React from circle CI.(Ahmad shakik)</p>
+        <p>Hello all!nice to meet you!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          CI/CD integration example!! created by Ahmad Shakik!!!!
+          Ahmad Shakik
         </a>
       </header>
     </div>
