@@ -11,12 +11,10 @@ jobs:
         keys:
           - v1-dependencies-{{checksum "package.json"}}
           - v1-dependencies-
-      
+
       - run:
           name: Deploy at Netlify
-          command:npm run deploy
-
-        
+          command: npm run deploy
 
 workflows:
   build_deploy:
