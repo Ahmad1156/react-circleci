@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ahmad Shakik
+          Ahmad
         </a>
       </header>
     </div>
